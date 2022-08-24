@@ -27,7 +27,7 @@ show all branch
 
 ## git checkout `branch name`
 
-<<<<<<< HEAD
+<<<<<<< **HEAD**
 ## git merge `branch name`
 
 to merge them we have to checkout master branch
