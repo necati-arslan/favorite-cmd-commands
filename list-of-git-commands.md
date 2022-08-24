@@ -18,3 +18,7 @@ show all branch
 ## git branch `branch name`
 
 ## git checkout `branch name`
+
+## git merge `branch name`
+
+to merge them we have to checkout master branch
