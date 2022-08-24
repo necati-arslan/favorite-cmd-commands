@@ -6,7 +6,9 @@
 
 ## git commit -m `messages`
 
-# git push - u origin `origin name`
+saving changes
+
+## git push - u origin `origin name`
 
 
 ## git branch
