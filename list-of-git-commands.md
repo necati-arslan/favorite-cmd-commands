@@ -4,11 +4,19 @@
 
 ## git status
 
+<<<<<<< **HEAD**
 ## git commit -m `messages`
 
 saving changes
 
 ## git push - u origin `origin name`
+=======
+show place where changes are 
+
+## git commit -m `messages`
+
+# git push - u origin `origin name`
+>>>>>>> test
 
 
 ## git branch
@@ -19,6 +27,10 @@ show all branch
 
 ## git checkout `branch name`
 
+<<<<<<< HEAD
 ## git merge `branch name`
 
 to merge them we have to checkout master branch
+=======
+## git log
+>>>>>>> test
