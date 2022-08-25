@@ -30,6 +30,10 @@ show all branch
 <<<<<<< **HEAD**
 ## git merge `branch name`
 
+## git merge --abort 
+
+go back before merge
+
 to merge them we have to checkout master branch
 =======
 ## git log
