@@ -27,14 +27,4 @@ show all branch
 
 ## git checkout `branch name`
 
-<<<<<<< **HEAD**
-## git merge `branch name`
-
-## git merge --abort 
-
-go back before merge
-
-to merge them we have to checkout master branch
-=======
 ## git log
->>>>>>> test
