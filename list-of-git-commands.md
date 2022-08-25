@@ -20,3 +20,7 @@ show all branch
 ## git checkout `branch name`
 
 ## git log
+
+## git push --set-upstream origin test
+
+to push branch remote repo
