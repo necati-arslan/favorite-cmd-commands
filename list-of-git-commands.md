@@ -29,3 +29,7 @@ show all branch
 ## git log
 
 ## git branch `branch name`
+## git rebase main
+we are in feature. we can pull main commits
+## git merge feature
+we are in master. we can pull feature
