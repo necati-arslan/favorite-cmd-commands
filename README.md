@@ -47,3 +47,6 @@ show all branch
 we are in feature. we can pull main commits
 ## git merge feature
 we are in master. we can pull feature
+
+## git remote -v
+get remote adress
