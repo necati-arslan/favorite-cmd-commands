@@ -50,3 +50,7 @@ we are in master. we can pull feature
 
 ## git remote -v
 get remote adress
+
+## git diff branch1..branch2
+
+## git branch --dell
